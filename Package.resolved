@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Mantle",
+        "repositoryURL": "https://github.com/Mantle/Mantle.git",
+        "state": {
+          "branch": null,
+          "revision": "f93c6267fc8ea2b314edd8831ac81c84b007ac94",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
